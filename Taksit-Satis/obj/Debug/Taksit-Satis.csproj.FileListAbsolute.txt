@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\bin\Debug\Taksit-Satis.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\bin\Debug\Taksit-Satis.exe
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\bin\Debug\Taksit-Satis.pdb
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit-Satis.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit_Satis.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit_Satis.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit-Satis.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit-Satis.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit-Satis.exe
+C:\Users\student\Desktop\Ahmet\ntp\Taksit-Satis\Taksit-Satis\obj\Debug\Taksit-Satis.pdb
